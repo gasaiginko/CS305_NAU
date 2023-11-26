@@ -7,3 +7,5 @@ This project will reveal the **origin of the universe** 🚀 and the **verge of 
 2.Then let AI help us build a time machine and do theory research.
 
 3.Lastly we can find the truth.
+
+Lisense type: MIT License
